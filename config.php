@@ -33,14 +33,12 @@
 	define("DATABASE","pizarria");
 
    
-	////define("USER","nadsis92_root");
-	//define("PASSWORD","Maximumcoop45@");
-	//define("DATABASE","nadsis92_nadsistemas");
+	
 
 
 
 	//Constantes para o painel de controle
-	define("NOME_EMPRESA","NADSistemas");
+	define("NOME_EMPRESA","");
 
 	//Funções do painel
 	function pegaCargo($indice){
